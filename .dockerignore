@@ -1,3 +1,5 @@
 .dockerignore
 Dockerfile
+README.md
 target
+out
